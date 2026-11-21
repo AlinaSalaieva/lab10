@@ -1,0 +1,12 @@
+/build/
+/vcpkg_installed/
+/.vs/
+/.vscode/.cmake/
+*.db
+*.db-shm
+*.db-wal
+*.log
+*.exe
+*.obj
+*.pdb
+.DS_Store
